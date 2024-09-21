@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "244059889885",
+    "project_id": "espace-61fa4",
+    "storage_bucket": "espace-61fa4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244059889885:android:d6684b3b7bea6a1207bb34",
+        "android_client_info": {
+          "package_name": "com.beeggee.espace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4xbcKajecBqRCDUcyTRvlV7BTgjA7NNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
